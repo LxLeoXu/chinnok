@@ -28,9 +28,9 @@ Zdrojové dáta pochádzajú z Kaggle datasetu dostupného [tu](https://www.kagg
 Surové dáta sú usporiadané v relačnom modeli, ktorý je znázornený na **entitno-relačnom diagrame (ERD)**:
 
 <p align="center">
-  <img src="https://github.com/JKabathova/AmazonBooks-ETL/blob/master/erd_schema.png" alt="ERD Schema">
+  <img src="https://github.com/LxLeoXu/chinnok/blob/main/erd_shcema.png" alt="ERD Schema">
   <br>
-  <em>Obrázok 1 Entitno-relačná schéma AmazonBooks</em>
+  <em>Obrázok 1 Entitno-relačná schéma Chinnok</em>
 </p>
 
 ---
@@ -287,4 +287,4 @@ Dashboard poskytuje komplexný pohľad na dáta, pričom zodpovedá dôležité 
 
 ----
 
-**Autor:** Ján Homola# chinnok
+ **Autor:** Ján Homola # chinnok
