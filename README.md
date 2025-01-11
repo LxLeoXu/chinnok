@@ -280,11 +280,11 @@ LIMIT 10;
 ```
 ---
 
-
+ **Autor:** Ján Homola # chinnok
 ```
 
 Dashboard poskytuje komplexný pohľad na dáta, pričom zodpovedá dôležité otázky týkajúce sa čitateľských preferencií a správania používateľov. Vizualizácie umožňujú jednoduchú interpretáciu dát a môžu byť využité na optimalizáciu odporúčacích systémov, marketingových stratégií a knižničných služieb.
 
 ----
 
- **Autor:** Ján Homola # chinnok
+
